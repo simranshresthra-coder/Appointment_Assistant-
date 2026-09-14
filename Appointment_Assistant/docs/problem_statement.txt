@@ -1,0 +1,7 @@
+Project: AI Appointment Assistant
+
+Problem Statement:
+Scheduling appointments creates administrative workload.
+
+Solution Statement:
+AI handles appointment requests and FAQs.
